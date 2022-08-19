@@ -12,7 +12,7 @@ used libraries:
 //npm install @mui/x-data-grid   --- material-ui Data table for Users
 
 
-opttions for Whit or Dark mode:
+options for White and Dark background mode:
 ![image](https://user-images.githubusercontent.com/73035495/185608593-a9163989-e04b-4e2a-af4a-ffa12415406e.png)
 ![image](https://user-images.githubusercontent.com/73035495/185608665-011f142c-76d7-4c7c-a4de-5f1a9d896379.png)
 
