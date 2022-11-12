@@ -2,13 +2,21 @@
 react admin dashboard template design front-end
 
 used libraries:
+
 //npx create-react-app .    --- (for install react in same folder)
+
 //npm install sass
+
 //npm install react-router-dom
+
 //npm install @mui/material @emotion/react @emotion/styled
+
 //npm install @mui/icons-material
+
 //npm install react-circular-progressbar     --- (library circular-progressbar visualization)
+
 //npm install recharts    -- charts  (https://recharts.org/en-US/)
+
 //npm install @mui/x-data-grid   --- material-ui Data table for Users
 
 
